@@ -5,7 +5,7 @@
 메터의 Archictecture는 아래와 같으며, IPv6을 기반으로 응용계층(L7)의 프로토콜입니다. 
 
 
-<img src="https://user-images.githubusercontent.com/52392004/208204331-d1e8d317-f0e5-4b61-a5c4-2d7cc5fc40fe.png" width="600">
+<img src="https://user-images.githubusercontent.com/52392004/208204331-d1e8d317-f0e5-4b61-a5c4-2d7cc5fc40fe.png" width="700">
 
 ## Reference
 
