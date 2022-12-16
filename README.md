@@ -13,4 +13,4 @@
 
 [Matter - GIT](https://github.com/project-chip/connectedhomeip)
 
-[Matter: A Unified Approach to IoT Device Development](https://www.silabs.com/wireless/matter?tab=start#wi-fi)
+[Matter: A Unified Approach to IoT Device Development - SILICON LABS](https://www.silabs.com/wireless/matter?tab=start#wi-fi)
