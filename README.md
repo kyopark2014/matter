@@ -7,6 +7,10 @@
 
 <img src="https://user-images.githubusercontent.com/52392004/208204331-d1e8d317-f0e5-4b61-a5c4-2d7cc5fc40fe.png" width="700">
 
+### Security
+
+128bit AES-CEC을 이용하여 AES-128-CCM로 Encription을 수행합니다.
+
 ## Reference
 
 [CSA](https://csa-iot.org/all-solutions/matter/)
