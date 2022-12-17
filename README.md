@@ -21,8 +21,8 @@ Thread는 배터리를 사용하는 디바이스들이 높은 에너지 효율�
 
 WiFi는 Thread보다는 더 많은 에너지를 사용하는데, 더 높은 대역폭을 가지고 보안 카메라나 비디오 도어락등에 활용됩니다. 
 
-![image](https://user-images.githubusercontent.com/52392004/208269729-f81b96ea-bcd7-46ff-8626-fc7bf995c2e7.png)
 
+<img src="https://user-images.githubusercontent.com/52392004/208269729-f81b96ea-bcd7-46ff-8626-fc7bf995c2e7.png" width="700">
 
 
 
