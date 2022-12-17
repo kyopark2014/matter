@@ -7,6 +7,25 @@
 
 <img src="https://user-images.githubusercontent.com/52392004/208204331-d1e8d317-f0e5-4b61-a5c4-2d7cc5fc40fe.png" width="700">
 
+### Connectivity
+
+매터는 WiFi아 Thread를 주된 무선 연결 프로토콜로서 사용합니다.
+
+#### Thread 
+
+Thread는 배터리를 사용하는 디바이스들이 높은 에너지 효율을 가질수 있도록 해줍니다. 센서나, 도어락, Smart Plug나 전등등이 해당됩니다.
+
+- IPv6 (6LoWPAN)을 이용합니다.
+- Low Rate WPAN인 802.15.4 위에서 동작합니다. 
+
+
+WiFi는 Thread보다는 더 많은 에너지를 사용하는데, 더 높은 대역폭을 가지고 보안 카메라나 비디오 도어락등에 활용됩니다. 
+
+![image](https://user-images.githubusercontent.com/52392004/208269729-f81b96ea-bcd7-46ff-8626-fc7bf995c2e7.png)
+
+
+
+
 ### Security
 
 128bit AES-CEC을 이용하여 AES-128-CCM로 Encription을 수행합니다.
@@ -18,3 +37,5 @@
 [Matter - GIT](https://github.com/project-chip/connectedhomeip)
 
 [Matter: A Unified Approach to IoT Device Development - SILICON LABS](https://www.silabs.com/wireless/matter?tab=start#wi-fi)
+
+[What is ThREAD?](https://www.threadgroup.org/BUILT-FOR-IOT/Smart-Home)
