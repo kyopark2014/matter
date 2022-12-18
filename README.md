@@ -41,3 +41,5 @@ WiFi는 Thread보다는 더 많은 에너지를 사용하는데, 더 높은 대�
 [Matter: A Unified Approach to IoT Device Development - SILICON LABS](https://www.silabs.com/wireless/matter?tab=start#wi-fi)
 
 [What is THREAD?](https://www.threadgroup.org/BUILT-FOR-IOT/Smart-Home)
+
+[Using the Matter standard - aws](https://docs.aws.amazon.com/privateca/latest/userguide/matter.html)
