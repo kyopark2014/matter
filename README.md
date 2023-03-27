@@ -9,7 +9,7 @@
 
 ### Connectivity
 
-매터는 WiFi아 Thread를 주된 무선 연결 프로토콜로서 사용합니다.
+매터는 WiFi와 Thread를 주된 무선 연결 프로토콜로서 사용합니다.
 
 #### Thread 
 
